@@ -15,6 +15,7 @@ import org.eclipse.equinox.app.IApplicationContext;
 import org.eclipse.swt.widgets.Display;
 import org.eclipse.ui.IWorkbench;
 import org.eclipse.ui.PlatformUI;
+import java.util.Set;
 
 /**
  * This class controls all aspects of the application's execution
